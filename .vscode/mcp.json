@@ -1,0 +1,9 @@
+{
+  "servers": {
+    "slack-mcp-server": {
+      "type": "stdio",
+      "command": "node",
+      "args": ["build/index.js"]
+    }
+  }
+}
