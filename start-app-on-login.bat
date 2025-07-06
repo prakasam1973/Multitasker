@@ -1,6 +1,6 @@
 @echo off
 REM Change directory to your project
-cd /d "%~dp0\india-travel-schedule-sync"
+cd /d "%~dp0\Prakasam Personal Assistant"
 
 REM Start the Vite dev server in a new terminal window
 start cmd /k "npm run dev"

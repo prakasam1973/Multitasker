@@ -1,6 +1,6 @@
 #!/bin/bash
 # Change to the project directory
-cd "$(dirname "$0")/india-travel-schedule-sync"
+cd "$(dirname "$0")/Prakasam Personal Assistant"
 
 # Start the Vite dev server in a new Terminal window
 osascript <<EOF
